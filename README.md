@@ -12,4 +12,14 @@ Coded in 2015
 
 ```bash
 python test.py
-```
+
+Main controls
+Action: On foot / By car:
+Shoot/Punch Left click
+Move up arrow
+Back down arrow
+Left left arrow
+Right right arrow
+Enter / Exit F / G
+Open map C
+

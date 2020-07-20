@@ -1,3 +1,4 @@
+# -*- coding: latin-1 -*-
 import pygame, sys
 from pygame.locals import *
 import math
